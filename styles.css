@@ -1,0 +1,25 @@
+
+/* The code on lines 3-7 makes the background of the header black and the text of the title of the webpage white. Change this to match what you want for your website! */
+header {
+    background-color: #FF69B4;
+    color: black;
+    padding: 128px 16px;   
+}
+.resizer img {
+    width: 400px;
+    height: 300px;
+}
+h4{
+    color: black ;
+}
+img{
+padding: 20px;
+}
+img {
+    border: 2px pink;
+border: 10px dotted solid pink;
+border: 50px solid hotpink;
+}
+img{
+    margin: 15px;
+}
